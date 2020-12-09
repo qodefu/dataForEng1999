@@ -49,7 +49,7 @@ https://forms.office.com/Pages/ResponsePage.aspx?id=s_BgbwZfCU6XFZiduozH2NtV2sAf
 
 ## Some themes from the MC (concepts part)
 
-### ML/Stats concept questions
+### Some ML/Stats concept questions
 
 * What is the difference between supervised and unsupervised ML?
 * What is the difference between classification and regression problems?
@@ -67,7 +67,7 @@ https://forms.office.com/Pages/ResponsePage.aspx?id=s_BgbwZfCU6XFZiduozH2NtV2sAf
 * Why do we need a validation?
 
 
-### Example Programming Questions (not in MC form here):
+### Some Example Programming Questions (not in MC form here):
 
 * Whats the difference between a class and an object?
 * What is an attribute?
@@ -82,3 +82,18 @@ https://forms.office.com/Pages/ResponsePage.aspx?id=s_BgbwZfCU6XFZiduozH2NtV2sAf
 * What is the "with" statement and how does it help with file I/0?
 * Whats the difference between a recursion solution and an iterated solution?
 * What is better about recursion? What is better about iteration?
+
+### Programming Problems
+
+As stated above, you will need to write objects/and or functions which use loops, if statments types, strings, etc. to solve some problem. 
+
+## ML/Data Science problem
+
+Almost always you will have data, either loaded from a library like in sklearn (eg. iris data)
+or from a csv file (eg. titanic).
+
+You will need to massage the data into the right form. 
+
+Then you might have a stats problem (is there a stat difference between group A and group B) which will require to you do stuff with the data (simulation, permutation etc), graph and compute.
+
+Or an ML problem like Classification, Regression, Dimention Reduction or Clustering. Again you will need to compute and make pictures. Also explain.
